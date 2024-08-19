@@ -15,6 +15,7 @@ Developed for the ReactJS Developer Intern Assessment from Grey Scientific Labs,
 
 - **React**: JavaScript library for building user interfaces.
 - **Syncfusion**: UI components for calendar functionality.
+- **Tailwind CSS**: For styling.
 
 ## Setup
 
