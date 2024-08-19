@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/syncfusion_react_calendar.git/static/css/main.7328ffcf.css",
+    "main.js": "/syncfusion_react_calendar.git/static/js/main.a3c2d999.js",
+    "index.html": "/syncfusion_react_calendar.git/index.html",
+    "main.7328ffcf.css.map": "/syncfusion_react_calendar.git/static/css/main.7328ffcf.css.map",
+    "main.a3c2d999.js.map": "/syncfusion_react_calendar.git/static/js/main.a3c2d999.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7328ffcf.css",
+    "static/js/main.a3c2d999.js"
+  ]
+}
